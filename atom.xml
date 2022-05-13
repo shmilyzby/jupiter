@@ -3,11 +3,11 @@
   <title>jupiter</title>
   
   
-  <link href="https://shmilyzby.github.io/atom.xml" rel="self"/>
+  <link href="https://shmilyzby.github.io/jupiter/atom.xml" rel="self"/>
   
-  <link href="https://shmilyzby.github.io/"/>
+  <link href="https://shmilyzby.github.io/jupiter/"/>
   <updated>2022-05-11T07:39:14.503Z</updated>
-  <id>https://shmilyzby.github.io/</id>
+  <id>https://shmilyzby.github.io/jupiter/</id>
   
   <author>
     <name>noob shmily</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://shmilyzby.github.io/2022/05/11/hello-world/"/>
-    <id>https://shmilyzby.github.io/2022/05/11/hello-world/</id>
+    <link href="https://shmilyzby.github.io/jupiter/2022/05/11/hello-world/"/>
+    <id>https://shmilyzby.github.io/jupiter/2022/05/11/hello-world/</id>
     <published>2022-05-11T07:39:14.503Z</published>
     <updated>2022-05-11T07:39:14.503Z</updated>
     
